@@ -1,7 +1,5 @@
 # Welcome to leave-flow-Africa fn
 
-## Project info
-
 
 ## What is this project?
 
